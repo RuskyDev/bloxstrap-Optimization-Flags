@@ -33,7 +33,7 @@
     "FIntFRMMinGrassDistance": 0,
     "FIntFRMMaxGrassDistance": 0,
     "FIntRenderGrassDetailStrands": 0,
-    "FintRenderGrassHeightScaler": 0,
+    "FIntRenderGrassHeightScaler": 0,
     "DFIntMaxFrameBufferSize": "4",
     "DebugGraphicsDisableVulkan": "True",
     "DebugGraphicsDisableVulkan11": "True",
