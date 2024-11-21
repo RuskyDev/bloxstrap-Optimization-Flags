@@ -1,9 +1,8 @@
-# 📦 Bloxstrap Optimization Flags
-
+# Bloxstrap Optimization Flags
 Compiled flags are combined to create the best optimization flags for Bloxstrap.
 
-## 📝 Features
+## Features
 - Lower latency/ping
-- No textures, gray skybox, no shadows, etc. (higher FPS)
+- No textures, gray skybox, no shadows, etc.
 
-**Note:** Not all of the flags here were found or made by me. This is a combined list with some additional optimizations.
+**Note:** Not all of the flags here were found by me.
